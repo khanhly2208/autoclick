@@ -1,0 +1,36 @@
+═══════════════════════════════════════════════════════════════
+   HƯỚNG DẪN SỬ DỤNG - AUTO CLICK PRO v3.5
+   (Có tính năng TỰ ĐỘNG DỪNG KHI ĐỦ SỐ LẦN BẤM)
+═══════════════════════════════════════════════════════════════
+
+
+CÁCH DÙNG TÍNH NĂNG "GIỚI HẠN SỐ LẦN BẤM"
+─────────────────────────────────────────────
+Trên giao diện ở BƯỚC 3 có thêm ô:
+
+   🎯 Giới hạn số lần bấm:  [300]
+
+- Bạn muốn bấm bao nhiêu lần thì điền số đó (ví dụ: 300, 500, 1000...)
+- Tool sẽ tự động đếm: "Số lần đã bấm: 1 / 300", "2 / 300"...
+- Khi bấm đủ 300 lần:
+    + Tool sẽ TỰ ĐỘNG DỪNG LẠI
+    + Phát chuông thông báo (bíp bíp)
+    + Báo trên màn hình: "🎉 ĐÃ HOÀN THÀNH — Đã bấm đủ 300 lần!"
+- Nếu muốn chạy không giới hạn (bấm liên tục không dừng): chỉ cần điền số 0.
+- Có nút "Đặt lại 0" kế bên để bạn reset số lần đếm về 0 bất cứ lúc nào.
+
+
+3 BƯỚC CƠ BẢN ĐỂ SỬ DỤNG
+─────────────────────────
+  Bước 1: Bấm F7 (sau 3s di chuột vào điểm màu xanh)
+  Bước 2: Bấm F9 (chỉ nút 1 LẬP LẠI), F10 (chỉ nút 2 XÁC NHẬN)
+  Bước 3: Nhập số lần muốn bấm (ví dụ 300) rồi bấm F6 để BẮT ĐẦU.
+
+
+PHÍM TẮT
+────────
+  F6  ──→ Bắt đầu / Tạm dừng
+  F7  ──→ Lấy màu xanh
+  F9  ──→ Chỉ vị trí Nút 1 (LẬP LẠI)
+  F10 ──→ Chỉ vị trí Nút 2 (XÁC NHẬN)
+  ESC ──→ Thoát và tự lưu cấu hình

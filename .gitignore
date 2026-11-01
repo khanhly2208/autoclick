@@ -1,0 +1,47 @@
+# Tự động tạo bởi GitPusher
+
+# Tập tin hệ điều hành
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+*~
+
+# Cấu hình IDE và trình soạn thảo
+.idea/
+.vscode/
+*.iml
+.vs/
+*.suo
+*.user
+
+# Tập tin nhị phân lớn, nén và công cụ build
+*.iso
+*.zip
+*.tar.gz
+*.7z
+*.rar
+ffmpeg.exe
+ffprobe.exe
+deno.exe
+yt-dlp.exe
+tools/
+
+# General / Unknown
+*.log
+*.tmp
+*.bak
+bin/
+obj/
+publish/
+build/
+dist/
+out/
+target/
+*.exe
+*.dll
+*.so
+*.dylib
+*.pdb
+
